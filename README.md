@@ -8,7 +8,7 @@ A structured learning path for mastering React, from JavaScript prerequisites to
 ---
 
 ## How to Use This Roadmap
-- [ ] Study topics in order.
+- [x] Study topics in order.
 - [ ] Write code for every topic instead of only watching tutorials.
 - [ ] Complete the practice tasks before moving forward.
 - [ ] Build the projects progressively and revisit earlier concepts when needed.
